@@ -109,7 +109,7 @@ class TicTacToe extends Component {
 			"01": [
 				[
 					[1, 1],
-					[1, 2],
+					[2, 1],
 				],
 			],
 			"02": [
